@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-export const Friend = styled.li`
+export const FriendItem = styled.li`
   display: flex;
   align-items: center;
   width: 270px;
